@@ -36,7 +36,7 @@ case $platform in
     echo "Replit Platform Detected"
     yarn install && yarn start 
     ;;
-  "Unknown")
-    echo "Unsupported platform"
+  "turmux")
+    echo "yarn&yarn"
     ;;
 esac
