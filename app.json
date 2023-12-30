@@ -1,18 +1,18 @@
 {
   "name": "Queen Anya Ver.2",
-  "description": "Anya_v2-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
+  "description": "Cyber baki is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
   "repository": "https://github.COM/PikaBotz/Anya_v2-MD",
   "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg",
   "keywords": ["Automation", "Innovation", "Versatility", "Efficiency", "Messaging", "Chatbot", "Integration", "Customization", "Ease of Use", "Personalization"],
   "success_url": "/",
   "stack": "container",
   "env": {
-       "BotName": {
-           "description": "Enter your desired bot\"s name (Ex:- Queen Anya)",
+       "BotName": {cyber
+           "description": "Enter your desired bot\"s name (Ex:- cyber)",
            "required": true
        },
        "Footer": {
-           "description": "Enter a watermark for your bot\"s messages (Ex:- ? Queen Anya)",
+           "description": "Enter a watermark for your bot\"s messages (Ex:- ? cyber)",
            "required": true
        },
        "Prefix": {
@@ -20,11 +20,11 @@
            "required": true
        },
        "Owner_Name": {
-           "description": "Enter a name for bot\"s owner (Ex:- Pika~Kun)",
+           "description": "Enter a name for bot\"s owner (Ex:- cyberx)",
            "required": true
        },
        "Owner_Number": {
-           "description": "Enter owner\"s number of the bot (Ex:- 918811xxxxxx)",
+           "description": "Enter owner\"s number of the bot (Ex:923457420942-)",
            "required": true
        },
        "MongoDB": {
@@ -36,15 +36,15 @@
            "required": true
        },
        "Insta": {
-           "description": "Enter your Instagram user Id (Ex:- 3.69_pika)",
+           "description": "Enter your Instagram user Id (Ex:- itz._.devil._.786)",
            "required": false
        },
        "Author": {
-           "description": "Enter a name for sticker\"s owner name (Ex:- PikaBotz)",
+           "description": "Enter a name for sticker\"s owner name (Ex:- cyber bot)",
            "required": false
        },
        "PackName": {
-           "description": "Enter a packname for stickers (Ex:- Queen Anya Stickers)",
+           "description": "Enter a packname for stickers (Ex:- cyber x Stickers)",
            "required": false
        },
        "Web": {
